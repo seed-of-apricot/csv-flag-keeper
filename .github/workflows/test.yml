@@ -20,7 +20,7 @@ jobs:
           id: ID
           mode: multiple
       - name: add-and-commit
-        uses: EndBug/add-and-commit@v4
+        uses: EndBug/add-and-commit@v7
         with:
           message: summary has been re-written
         env:
