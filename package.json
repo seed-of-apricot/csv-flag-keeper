@@ -34,7 +34,7 @@
     "graphql-tag": "2.11.0"
   },
   "devDependencies": {
-    "@octokit/action": "2.9.0",
+    "@octokit/action": "3.10.2",
     "@types/jest": "26.0.14",
     "@types/node": "14.11.8",
     "@typescript-eslint/eslint-plugin": "4.4.1",
